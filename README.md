@@ -1,6 +1,6 @@
 # Projeto Avaliação Consumo de APIs
 
-Este é um projeto desenvolvido como parte da primeira avaliação do curso de Desenvolvimento Web III na FATEC.
+Este é um projeto desenvolvido como parte da primeira avaliação do curso de Desenvolvimento Web III na FATEC Araras, no primeiro semestre do ano letivo de 2024.
 
 ## Descrição
 
