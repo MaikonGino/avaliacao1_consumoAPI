@@ -25,7 +25,7 @@ O aplicativo utiliza a biblioteca `requests` para fazer solicitações HTTP à A
 
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestão de melhoria, por favor, abra uma issue ou envie um pull request.
 
-## Autores
+## Autor
 
 * [Maikon Gino](https://github.com/MaikonGino) - Desenvolvedor.
 
