@@ -22,6 +22,6 @@ Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestã
 
 ## Autores
 
-* [Maikon Gino](https://github.com/MaikonGino) - Desenvolvedor
+* [Maikon Gino](https://github.com/MaikonGino) - Desenvolvedor.
 
 
