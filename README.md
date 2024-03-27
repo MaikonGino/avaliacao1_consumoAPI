@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido como parte da primeira avaliação do curso de Desenvolvimento Web III na FATEC Araras, no primeiro semestre do ano letivo de 2024.
 
-## TECNOLOGIA UTILIZADA:
+## TECNOLOGIA UTILIZADA
 <div>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="125px">
 </div>
