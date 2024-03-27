@@ -4,7 +4,7 @@ Este é um projeto desenvolvido como parte da primeira avaliação do curso de D
 
 ## TECNOLOGIA UTILIZADA:
 <div>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
 </div>
 
 ## Descrição
