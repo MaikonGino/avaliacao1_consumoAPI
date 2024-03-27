@@ -2,6 +2,11 @@
 
 Este é um projeto desenvolvido como parte da primeira avaliação do curso de Desenvolvimento Web III na FATEC Araras, no primeiro semestre do ano letivo de 2024.
 
+## TECNOLOGIA UTILIZADA:
+<div>   
+<img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75px">
+</div>
+
 ## Descrição
 
 O projeto consiste em um aplicativo Python que consome a API do OpenWeatherMap para fornecer informações climáticas de uma cidade específica. Ele permite ao usuário inserir o nome da cidade desejada e exibe as condições climáticas atuais, incluindo temperatura, descrição do clima, umidade, pressão atmosférica e velocidade do vento.
